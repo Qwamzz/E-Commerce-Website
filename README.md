@@ -22,7 +22,7 @@ ShopSmart is a modern, responsive e-commerce website built with React, TypeScrip
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/shopsmart-ecommerce.git
+   git clone https://github.com/Qwamzz/E-Commerce-Website.git
    ```
 
 2. Install dependencies:
