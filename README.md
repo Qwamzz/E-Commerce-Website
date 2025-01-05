@@ -52,8 +52,6 @@ npm run build
 
 The built files will be in the `dist` directory.
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 
