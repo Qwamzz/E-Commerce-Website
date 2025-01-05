@@ -1,6 +1,7 @@
 # ShopSmart E-Commerce Website
 
-<img width="934" alt="image" src="https://github.com/user-attachments/assets/d5c1800e-8e3e-428f-8d1e-259b9522f491" />
+<img width="934" alt="image" src="https://github.com/user-attachments/assets/d5c1800e-8e3e-428f-8d1e-259b9522f491" /> 
+
 
 
 ShopSmart is a modern, responsive e-commerce website built with React, TypeScript, and Tailwind CSS. It provides a seamless shopping experience with features like product browsing, detailed product pages, and a functional shopping cart.
@@ -55,6 +56,4 @@ The built files will be in the `dist` directory.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
