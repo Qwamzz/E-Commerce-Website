@@ -31,7 +31,7 @@ ShopSmart is a modern, responsive e-commerce website built with React, TypeScrip
 
 2. Install dependencies:
    ```
-   cd shopsmart-ecommerce
+   cd E-Commerce-Website
    npm install
    ```
 
