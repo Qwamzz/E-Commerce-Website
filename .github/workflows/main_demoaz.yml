@@ -61,4 +61,4 @@ jobs:
           app-name: 'demoaz'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A31E19A8B104F118F9025C63A593C38 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_400A4E7917014EBCA011009334397576 }}
